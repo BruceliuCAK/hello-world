@@ -1,2 +1,3 @@
 # hello-world
-First try in Github
+
+Hi, everyone, this is bruce, a freash new on learning programming things, hopefully I can achieve something here.
